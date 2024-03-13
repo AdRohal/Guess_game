@@ -1,6 +1,3 @@
-#!/bin/bash
-
-cat <<EOF >README.md
 # Emoji Number Guessing Game
 
 Welcome to the Emoji Number Guessing Game! 🎮 This game challenges you to guess the secret number chosen by the computer. Are you ready to test your guessing skills?
